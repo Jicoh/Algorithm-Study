@@ -3,4 +3,4 @@ project(AlgorithmStudy)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(AlgorithmStudy main.cpp)
+add_executable(AlgorithmStudy nSum.cpp)
